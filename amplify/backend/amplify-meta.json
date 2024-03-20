@@ -35,7 +35,7 @@
         "s3TemplateURL": "https://s3.amazonaws.com/amplify-expoamplifydemo-dev-223512-deployment/amplify-cfn-templates/api/cloudformation-template.json",
         "logicalId": "apiexpoamplifydemo"
       },
-      "lastPushTimeStamp": "2024-03-20T04:48:46.480Z",
+      "lastPushTimeStamp": "2024-03-20T07:00:56.239Z",
       "lastPushDirHash": "urbDsb2XtALneoLnNjSWYz8aPKM="
     }
   }
